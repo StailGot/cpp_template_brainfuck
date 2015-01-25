@@ -1,6 +1,6 @@
-// для MSVC
+п»ї// РґР»СЏ MSVC
 #pragma warning( disable : 4309 )
-// для GCC
+// РґР»СЏ GCC
 //g++ -std = c++14 -w main.cpp
 
 #include <iostream>
